@@ -1,0 +1,45 @@
+# Test case
+
+INPUT(a)
+INPUT(b)
+INPUT(c)
+INPUT(d)
+
+OUTPUT(Nd)
+OUTPUT(Aab)
+OUTPUT(Oab)
+OUTPUT(NAab)
+OUTPUT(NOab)
+OUTPUT(Xab)
+
+OUTPUT(Aabc)
+OUTPUT(Oabc)
+OUTPUT(NAabc)
+OUTPUT(NOabc)
+OUTPUT(Xabc)
+
+OUTPUT(Aabcd)
+OUTPUT(Oabcd)
+OUTPUT(NAabcd)
+OUTPUT(NOabcd)
+OUTPUT(Xabcd)
+
+Nd = NOT(d)
+Aab = AND(a,b)
+Oab = OR(a,b)
+NAab = NAND(a,b)
+NOab = NOR(a,b)
+Xab = XOR(a,b)
+
+Aabc = AND(a,b,c)
+Oabc = OR(a,b,c)
+NAabc = NAND(a,b,c)
+NOabc = NOR(a,b,c)
+Xabc = XOR(a,b,c)
+
+Aabcd = AND(a,b,c,d)
+Oabcd = OR(a,b,c,d)
+NAabcd = NAND(a,b,c,d)
+NOabcd = NOR(a,b,c,d)
+Xabcd = XOR(a,b,c,d)
+

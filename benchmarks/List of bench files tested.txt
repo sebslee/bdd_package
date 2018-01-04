@@ -1,0 +1,28 @@
+iscas85 (all, except: c499,c1355,7552)
+c17.bench
+c432.bench
+c880.bench
+c1908.bench
+c2670.bench
+c3540.bench
+c6288.bench
+c5315.bench
+
+iscas89
+all, except s38417
+
+iscas99
+b02.bench
+b01.bench
+b06.bench
+b03.bench
+b09.bench
+b08.bench
+b10.bench
+b13.bench
+b07.bench
+b04.bench
+b11.bench
+b05.bench
+b12.bench
+
